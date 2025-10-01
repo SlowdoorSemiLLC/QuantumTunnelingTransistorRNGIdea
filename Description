@@ -1,0 +1,21 @@
+Albert Einstein once said that information cannot travel faster than light.
+When transistors shrink, they may exhibit current leakage, where some
+electrons begin to quantum tunnel through the transistor gate. Because
+an electron quantum tunneling through a transistor gate is the electron
+essentially teleporting through a transistor gate, that means it travels
+faster than the speed of light. And because it travels faster than the
+speed of light, that means that the electron carries no information,
+meaning that the probability of it tunneling or not tunneling is
+actually random according to the laws of physics. This means that all
+other so-called "random number generators" are lies. They are all
+pseudo-random number generators.
+
+If a transistor were to be designed specifically for electrons to
+quantum tunnel every clock cycle with an exact 50% probability of
+occurrence and the output of that transistor ANDed with a clock
+signal wire, then a quantum tunneling transistor random number
+generator would be constructed. It would also provide a bitrate
+equal to the clock frequency.
+
+I would add 256 of these transistors to my FPGA, and spread them
+out in a 16 by 16 grid across the chip.
