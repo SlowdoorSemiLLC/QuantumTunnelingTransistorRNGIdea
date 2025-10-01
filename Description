@@ -13,9 +13,10 @@ pseudo-random number generators.
 If a transistor were to be designed specifically for electrons to
 quantum tunnel every clock cycle with an exact 50% probability of
 occurrence and the output of that transistor ANDed with a clock
-signal wire, then a quantum tunneling transistor random number
+signal wire, then a quantum tunneling transistor random bit
 generator would be constructed. It would also provide a bitrate
 equal to the clock frequency.
 
-I would add 256 of these transistors to my FPGA, and spread them
-out in a 16 by 16 grid across the chip.
+I would add 256 of these quantum tunneling transistor random
+bit generators to my FPGA, and spread them out in a 16 by 16
+grid across the chip.
